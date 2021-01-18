@@ -55,3 +55,8 @@ For macOS and Linux, the Neovim config file is located in `~/.config/nvim/init.v
 And for Windows:
 
 `mkdir ~/AppData/Local/nvim`
+
+## **Required pedendencies**
+Install ranger latest using the instructions at https://ranger.github.io/
+
+Install ripgrep latest using the instructions at https://github.com/BurntSushi/ripgrep
