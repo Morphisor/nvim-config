@@ -9,6 +9,7 @@ set secure
 set shortmess+=c
 set termguicolors
 set updatetime=300
+set mouse=a
 syntax enable
 
 
