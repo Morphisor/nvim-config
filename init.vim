@@ -10,6 +10,7 @@ set shortmess+=c
 set termguicolors
 set updatetime=300
 set mouse=a
+set clipboard=unnamed
 syntax enable
 
 
