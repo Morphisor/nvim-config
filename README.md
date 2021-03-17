@@ -60,3 +60,13 @@ And for Windows:
 Install ranger latest using the instructions at https://ranger.github.io/
 
 Install ripgrep latest using the instructions at https://github.com/BurntSushi/ripgrep
+
+`sudo apr-get install neofetch`
+
+
+`sudo apt-get install zsh`
+
+
+`sudo apt-get install powerline fonts-powerline`
+
+`sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
