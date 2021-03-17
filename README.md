@@ -61,7 +61,7 @@ Install ranger latest using the instructions at https://ranger.github.io/
 
 Install ripgrep latest using the instructions at https://github.com/BurntSushi/ripgrep
 
-`sudo apr-get install neofetch`
+`sudo apt-get install neofetch`
 
 
 `sudo apt-get install zsh`
