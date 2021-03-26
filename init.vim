@@ -69,6 +69,7 @@ nmap <leader>h :wincmd h<CR>
 nmap <leader>j :wincmd j<CR>
 nmap <leader>k :wincmd k<CR>
 nmap <leader>l :wincmd l<CR>
+nmap <leader>- :e#<CR>
 
 
 "'' Conquer of Completion (CoC) ''"
